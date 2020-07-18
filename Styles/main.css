@@ -1,0 +1,120 @@
+#holygrail{
+    
+    /* background: linear-gradient(to top,#772953,#e95420 );
+    background-repeat: no-repeat;  */
+    height: 650px;
+    margin-top: 50px;
+    background-image: linear-gradient(to top,#772953,#e95420 );
+    
+    
+}
+#header{
+    border: 2px solid rgba(223, 141, 141, 0.15);
+    margin: 10px;
+    padding: 5px;
+    border-radius: 2px;
+    display: inline;
+    background-color: rgba(255, 255, 255, 0.15) ;
+    
+    
+}
+#main{
+    margin: 10px;
+    border: 2px solid rgba(223, 141, 141, 0.15);
+    background-color: rgba(255, 255, 255, 0.15) ; 
+    padding: 5px;
+    border-radius: 2px;
+    clear: both;
+   
+    display: block;
+    font-size: large;
+    
+   
+}
+#footer{
+    margin: 10px;
+    display: inline;
+    border: 2px solid rgba(223, 141, 141, 0.15);
+    background-color: rgba(255, 255, 255, 0.15) ; 
+    padding: 5px;
+    border-radius: 2px;
+    clear: both;
+    /* width: fit-content; */
+
+}
+#main #content,#main #secondary,#main #tertiary{
+    border: 2px solid rgba(223, 141, 141, 0.15);
+    background-color: rgba(255, 255, 255, 0.15) ; 
+    padding: 10px;
+    margin: 10px;    
+    text-align: center;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* #772953 
+#e95420 
+#fff 
+rgba(255, 255, 255, 0.15) 
+rgba(255, 255, 255, 0.25) 
+ */
+ /* #holygrail{
+    background-color: #e95420 ;
+    background-image: linear-gradient(to bottom,#e95420 ,#772953 );
+    margin:50px;
+    height: 560px;
+}
+#header{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 40px;
+    border:2px solid rgba(245, 242, 237, 0.514);
+    background-color:  rgba(245, 242, 237, 0.089);
+}
+#main{
+    margin-top: 5px;
+    display: flex;
+    flex-direction: row;
+    border:2px solid rgba(245, 242, 237, 0.514);
+    background-color:  rgba(245, 242, 237, 0.089);
+    height:80%;
+
+}
+#main #content, #secondary,#tertiary{
+    display: flex;
+    margin: 25px;
+    text-align: center;
+    padding:25px;
+    align-items: center;
+    border:2px solid rgba(245, 242, 237, 0.514);
+
+}
+
+
+#footer{
+    display: flex;
+    height: 40px;
+    justify-content: space-evenly;
+    align-items: center;
+    border:2px solid rgba(245, 242, 237, 0.514);
+    margin-top: 5px;
+    background-color:  rgba(245, 242, 237, 0.089);
+} */
